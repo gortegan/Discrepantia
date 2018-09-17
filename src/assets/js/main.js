@@ -131,12 +131,6 @@ jQuery(function($) {
     }
 
 
-    //Youtube Video Background
-    $(function() {
-        $(".video-player").YTPlayer();
-    });
-
-
     // Works Item Lightbox				
     $(".lightbox-image").magnificPopup({
         type: 'image',
